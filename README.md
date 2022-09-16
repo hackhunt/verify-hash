@@ -26,7 +26,7 @@
  - **-h or --help:** *Displays all the available options.*
  - **-f or --file:** *This option needs to be used as to define for which file you need the program to calculate hash value.*
  - **-t or --type:** *This options needs to be used as to define which type of hashing algorithm to support.*
- - **-v or --verify-hash:** *Optional. Can be used to specify a MAC Address.*
+ - **-v or --verify-hash:** *Optional. Can be used to specify the Hash Value from the website to verify it.*
 
 **Note:** Program supports most of the common hashing algorithm, but if you uses an algorithm that is not supported by the program, it will gives back an **error**.
 
@@ -39,12 +39,12 @@
 
 ### Developer Information:
 - **Website:** https://www.hackhunt.in/
-- **Contact:** hh.hackunt@gmail.com
+- **Contact:** info@hackhunt.in
 - **LinkedIn:** https://www.linkedin.com/company/hackhunt
 - **Youtube:** [@hackhunt](https://youtube.com/hackhunt)
-- **Instagram:** [@hh.hackhunt](https://www.instagram.com/hh.hackhunt/)
-- **Facebook:** [@hh.hackhunt](https://www.facebook.com/hh.hackhunt/)
-- **Twitter:** [hh_hackhunt](https://twitter.com/hh_hackhunt/)
+- **Instagram:** [@hackhunt.in](https://www.instagram.com/hackhunt.in/)
+- **Facebook:** [@hackhunt.in](https://www.facebook.com/hackhunt.in/)
+- **Twitter:** [hackhunt_in](https://twitter.com/hackhunt_in/)
 - **Patreon:** [@hackhunt](https://www.patreon.com/hackhunt)
 
 [1]: ./verify_hash_no_color.py
